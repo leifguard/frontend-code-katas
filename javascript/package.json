@@ -1,0 +1,14 @@
+{
+  "name": "frontend-code-katas",
+  "description": "frontend code katas javascript",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Leif Arne Genzmer",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+	"grunt-contrib-jasmine": "~1.1.0"
+  },
+  "engines": {
+    "node": "~6.9.1"
+  }
+}
