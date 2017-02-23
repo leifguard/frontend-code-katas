@@ -6,4 +6,4 @@ This repository contains a collection of frontend code katas. It starts very eas
 
 # #2
 
-# [Javascript Katas](http://example.com/ "Javascript")
+# [Javascript Katas](/Javascript "Javascript")
