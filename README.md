@@ -4,9 +4,6 @@ This repository contains a collection of frontend code katas. First only Jquery.
 
 # Jquery Katas
 
-## 1. Selectors
-
-
 ### Markup
 ```
 
@@ -90,7 +87,7 @@ This repository contains a collection of frontend code katas. First only Jquery.
 
 ```
 
-### 1. Übung
+### 1. Übung - Selectors
 
 #### Basic-Selectors
 - Universal
@@ -99,18 +96,29 @@ This repository contains a collection of frontend code katas. First only Jquery.
 - Id
 - Multiple Selectors
 
-### 2. Übung
-
 #### Basic-Filter
 - Even
 - Odd
-- First
-- Focus
-- not
-
-### 3. Übung
+- Not
 
 #### Child-Filter
 - First-Child
 - Last-Child
 - nth-Child
+
+#### Form-Filter
+- Button
+- Checkbox
+- Input
+- Disabled
+- Checked
+- Selected
+
+### 2. Übung - Manipulation
+
+
+### 3. Übung - Events
+
+
+### 3. Übung - Traversing
+
