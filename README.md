@@ -2,7 +2,7 @@
 
 This repository contains a collection of frontend code katas. First only Jquery.
 
-# Jquery Katas
+## Jquery Katas
 
 ### Markup
 ```
@@ -114,11 +114,10 @@ This repository contains a collection of frontend code katas. First only Jquery.
 - Checked
 - Selected
 
+### 3. Übung - Traversing
+
+
 ### 2. Übung - Manipulation
 
 
 ### 3. Übung - Events
-
-
-### 3. Übung - Traversing
-
