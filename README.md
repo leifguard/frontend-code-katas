@@ -1,14 +1,10 @@
 # frontend-code-katas
 
-This repository contains a collection of frontend code katas. It starts very easy with some HTML, followed by CSS and Javascript.
+This repository contains a collection of frontend code katas. First only Jquery.
 
-# #1
+# Jquery Katas
 
-# #2
-
-#Jquery Katas
-
-##1. Selektoren
+## 1. Selectors
 
 
 ### Markup
@@ -24,7 +20,7 @@ This repository contains a collection of frontend code katas. It starts very eas
 		<div class="klasse1">Ein Div</div>
 		
 		<div id="peter">Ein Div</div>
-		
+		<p>Formular</p>
 		<form name="formular">
 			<fieldset>
 				<legend>Formular Markup 1</legend>
@@ -49,20 +45,72 @@ This repository contains a collection of frontend code katas. It starts very eas
 				<input type="reset" value="zurücksetzen">
 			</fieldset>
 		</form>
-				
+		<p>Parent & Children</p>
 		<div class="parent">
 			<div>1</div>
 			<div>2</div>
 			<div>3</div>
 		</div>
-		
+		<p>Liste</p>
 		<ul>
 			<li><a href="#">Link 1</a></li>
 			<li><a href="#">Link 2</a></li>
 			<li><a href="#">Link 3</a></li>
 			<li><a href="#">Link 4</a></li>
 		</ul>
+		<p>Tabelle</p>
+		<table>
+			<tr>
+				<td>Reihe 1</td>
+				<td>Reihe 1</td>
+				<td>Reihe 1</td>
+				<td>Reihe 1</td>
+			</tr>
+			<tr>
+				<td>Reihe 2</td>
+				<td>Reihe 2</td>
+				<td>Reihe 2</td>
+				<td>Reihe 2</td>
+			</tr>
+			<tr>
+				<td>Reihe 3</td>
+				<td>Reihe 3</td>
+				<td>Reihe 3</td>
+				<td>Reihe 3</td>
+			</tr>
+			<tr>
+				<td>Reihe 4</td>
+				<td>Reihe 4</td>
+				<td>Reihe 4</td>
+				<td>Reihe 4</td>
+			</tr>
+		</table>
 	</body>
 </html>
 
 ```
+
+### 1. Übung
+
+#### Basic-Selectors
+- Universal
+- Element
+- Klasse
+- Id
+- Multiple Selectors
+
+### 2. Übung
+
+#### Basic-Filter
+- Even
+- Odd
+- First
+- Focus
+- not
+
+### 3. Übung
+
+#### Child-Filter
+- First-Child
+- Last-Child
+- nth-Child
