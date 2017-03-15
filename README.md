@@ -6,7 +6,6 @@ This repository contains a collection of frontend code katas. First only Jquery.
 
 ### Markup
 ```
-
 <html>
 	<head>
 		<title>Jquery Kata</title>
