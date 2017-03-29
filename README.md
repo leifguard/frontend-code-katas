@@ -92,6 +92,7 @@ This repository contains a collection of frontend code katas. First only Jquery.
 - Universal
 - Element
 - Klasse
+- Attribut-Selektoren
 - Id
 - Multiple Selectors
 
@@ -113,10 +114,15 @@ This repository contains a collection of frontend code katas. First only Jquery.
 - Checked
 - Selected
 
+### 2. Übung - Events
+
+- Event-Attachment
+- Event-Object
+- Mouse-Events
+- Keyboard-Events
+- Form-Events
+- Browser-Events
+
 ### 3. Übung - Traversing
 
-
-### 2. Übung - Manipulation
-
-
-### 3. Übung - Events
+### 4. Übung - Manipulation
