@@ -86,7 +86,7 @@ This repository contains a collection of frontend code katas. First only Jquery.
 
 ```
 
-### 1. Übung - Selectors
+### 1. Übung - Selectors (https://codepen.io/leifguard/pen/zdEzOg)
 
 #### Basic-Selectors
 - Universal
@@ -114,7 +114,7 @@ This repository contains a collection of frontend code katas. First only Jquery.
 - Checked
 - Selected
 
-### 2. Übung - Events
+### 2. Übung - Events (https://codepen.io/leifguard/pen/gxGRvz)
 
 - Event-Attachment
 - Event-Object
