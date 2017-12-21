@@ -84,7 +84,7 @@ This repository contains a collection of frontend code katas. First only Jquery.
 	</body>
 </html>
 
-```
+``
 
 ### 1. Übung - Selectors (https://codepen.io/leifguard/pen/zdEzOg)
 
